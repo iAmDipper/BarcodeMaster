@@ -1,0 +1,10 @@
+C:\Users\Lerchers\source\repos\BarcodeMaster\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Lerchers\source\repos\BarcodeMaster\TestProject\bin\Debug\TestProject.exe
+C:\Users\Lerchers\source\repos\BarcodeMaster\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Lerchers\source\repos\BarcodeMaster\TestProject\bin\Debug\BarcodeMaster.dll
+C:\Users\Lerchers\source\repos\BarcodeMaster\TestProject\bin\Debug\BarcodeMaster.pdb
+C:\Users\Lerchers\source\repos\BarcodeMaster\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Lerchers\source\repos\BarcodeMaster\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Lerchers\source\repos\BarcodeMaster\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\Lerchers\source\repos\BarcodeMaster\TestProject\obj\Debug\TestProject.exe
+C:\Users\Lerchers\source\repos\BarcodeMaster\TestProject\obj\Debug\TestProject.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\bin\Debug\BarcodeMaster.dll
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\bin\Debug\BarcodeMaster.pdb
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\obj\Debug\BarcodeMaster.csproj.CoreCompileInputs.cache
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\obj\Debug\BarcodeMaster.dll
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\obj\Debug\BarcodeMaster.pdb
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\obj\Debug\BarcodeMaster.csprojAssemblyReference.cache

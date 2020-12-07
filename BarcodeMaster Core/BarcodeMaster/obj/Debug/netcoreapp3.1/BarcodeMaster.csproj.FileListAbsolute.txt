@@ -1,0 +1,9 @@
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\bin\Debug\netcoreapp3.1\BarcodeMaster.deps.json
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\bin\Debug\netcoreapp3.1\BarcodeMaster.dll
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\obj\Debug\netcoreapp3.1\BarcodeMaster.csprojAssemblyReference.cache
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\obj\Debug\netcoreapp3.1\BarcodeMaster.AssemblyInfoInputs.cache
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\obj\Debug\netcoreapp3.1\BarcodeMaster.AssemblyInfo.cs
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\bin\Debug\netcoreapp3.1\BarcodeMaster.pdb
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\obj\Debug\netcoreapp3.1\BarcodeMaster.csproj.CoreCompileInputs.cache
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\obj\Debug\netcoreapp3.1\BarcodeMaster.dll
+C:\Users\Lerchers\source\repos\BarcodeMaster\BarcodeMaster\obj\Debug\netcoreapp3.1\BarcodeMaster.pdb
